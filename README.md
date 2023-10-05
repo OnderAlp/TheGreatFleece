@@ -5,7 +5,7 @@ Giving characters ability to move with Unity's in-engine navigation and AI libra
 Using Cinemachine and Timeline to create in-game cutscenes.
 
 
-Download Project: https://drive.google.com/drive/folders/17YL_Nr5l70ZukTTN-hVvbj8m4bfUZTXP?usp=sharing
+Download Game: https://drive.google.com/drive/folders/17YL_Nr5l70ZukTTN-hVvbj8m4bfUZTXP?usp=sharing
 
 Youtube Video:
 
